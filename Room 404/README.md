@@ -65,5 +65,5 @@ Bash
 
 Exposing the internal staging repository revealed the hardcoded staging flag embedded inside the README.md file.
 
-`THM{************}`
+`THM{************}` 
 
